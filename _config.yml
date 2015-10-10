@@ -30,5 +30,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "byronwind"
+      author: "DuduLili"
       header-img: "img/post-bg-01.jpg" # We don't want posts without a header image, that whould mean white on white
