@@ -18,9 +18,9 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 
 comments :
-   provider : duoshuo
-    duoshuo : 
-   shortname : dudulili
+	provider : duoshuo
+	duoshuo : 
+   		shortname : dudulili
 
 # Defaults for posts
 defaults:
