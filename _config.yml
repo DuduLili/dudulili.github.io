@@ -16,11 +16,11 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-
+# Comments 
 comments :
-	provider : duoshuo
-	duoshuo : 
-   		shortname : dudulili
+  provider : duoshuo
+  duoshuo :
+    short_name : dudulili
 
 # Defaults for posts
 defaults:
