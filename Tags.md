@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Tags"
-description: "博客标签库"  
-header-img: "img/contact-bg.jpg"  
+description: "标签库"  
+header-img: "img/zhihu-blue.jpg"  
 ---
 
 
